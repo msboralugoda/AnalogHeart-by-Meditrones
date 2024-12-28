@@ -1,0 +1,5 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\Banuka\Desktop\EN2091\Analog Project\ECGsimulation[1].asc
+Start Time: Sat Dec 21 11:13:19 2024
+Fatal Error: Could not open file "c:\users\banuka\downloads\ecg_with_noise_testvalues.txt" in PWL
+
