@@ -77,7 +77,8 @@ The enclosure was modeled using SolidWorks and designed for:
 - **Battery holder and charging port** for portability.
 - **Display mount and slots** for connectors, switches, and ventilation.
 - **3D-printed construction** for rapid prototyping.
-![product_analog](https://github.com/user-attachments/assets/a20569d8-06bf-4df4-be3d-d1c720de780e)
+<img src="https://github.com/user-attachments/assets/a20569d8-06bf-4df4-be3d-d1c720de780e" width="500">
+
 
 ---
 
