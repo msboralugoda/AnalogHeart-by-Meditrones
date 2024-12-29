@@ -61,7 +61,7 @@ The PCB was designed using Altium Designer and features:
 - **Separate routing** for signal and power traces to reduce noise.
 - **Compact design** with 0805 SMD components and IC bases for easy replacement.
 - **Hand-soldered components** for prototyping and testing.
-![soldered pcb](https://github.com/user-attachments/assets/df98d67f-a293-4048-aef6-e016502b796e)
+<img src="https://github.com/user-attachments/assets/df98d67f-a293-4048-aef6-e016502b796e" alt="PCB " width="800">
 
 ### PCB Highlights:
 - **Power traces**: 25 mils for reliability.
