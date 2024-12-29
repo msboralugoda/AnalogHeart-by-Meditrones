@@ -61,6 +61,7 @@ The PCB was designed using Altium Designer and features:
 - **Separate routing** for signal and power traces to reduce noise.
 - **Compact design** with 0805 SMD components and IC bases for easy replacement.
 - **Hand-soldered components** for prototyping and testing.
+![soldered pcb](https://github.com/user-attachments/assets/df98d67f-a293-4048-aef6-e016502b796e)
 
 ### PCB Highlights:
 - **Power traces**: 25 mils for reliability.
@@ -76,6 +77,7 @@ The enclosure was modeled using SolidWorks and designed for:
 - **Battery holder and charging port** for portability.
 - **Display mount and slots** for connectors, switches, and ventilation.
 - **3D-printed construction** for rapid prototyping.
+![product_analog](https://github.com/user-attachments/assets/a20569d8-06bf-4df4-be3d-d1c720de780e)
 
 ---
 
