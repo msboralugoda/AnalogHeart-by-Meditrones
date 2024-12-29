@@ -14,7 +14,7 @@ An electrocardiogram (ECG) is a widely used diagnostic tool for evaluating heart
 
 Our project aims to address these challenges by designing an analog circuit that amplifies and filters ECG signals using basic electronic components such as resistors, capacitors, and operational amplifiers (OpAmps). The design incorporates multiple stages of signal conditioning, which are detailed below.
 
-We simulated the design using LTSpice and MultiSim before implementation and used Altium Designer for PCB layout and SolidWorks for enclosure design.
+We simulated the design using LTSpice before implementation and used Altium Designer for PCB layout and SolidWorks for enclosure design.
 
 ---
 
