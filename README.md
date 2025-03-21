@@ -1,5 +1,5 @@
 # AnalogHeart-by-Meditrones
-This is the detailed project description of the ECG monitoring device built using analog electronics by the team Meditrones
+This is the detailed project description of the ECG monitoring device built using analog electronics by the team Meditrones.
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Functionality](#functionality)
